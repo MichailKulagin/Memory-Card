@@ -199,6 +199,8 @@ list_question.append(Question('В каком году создали python?', '
 list_question.append(Question('В каком году создали ютуб?', '2005', '2000', '2007', '2004'))
 list_question.append(Question('В каком году создали ВК?', '2006', '2005', '2007', '2004'))
 list_question.append(Question('В каком году создали Google?', '1998', '2000', '1999', '1997'))
+list_question.append(Question('Какой браузер популярней?', 'Брейв', 'Мозила', 'Хром', 'Яндекс'))
+
 ask(ask1)
 
 global curr_answer
